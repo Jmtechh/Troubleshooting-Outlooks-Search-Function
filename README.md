@@ -6,15 +6,12 @@ The aim of this lab is to demonstrate how to fix the search bar tool in Outlook 
 
 <h2>Utilities Used</h2>
 
-- <b>Virtualbox</b>
-- <b>virtual machines</b>
-- <b>Windows ISO</b> 
+- <b>Microsoft 365</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10 OS</b>
-- <b>Windows 10 server OS</b>
-- <b>Outlooks</b> 
+- <b>Windows 10</b>
+- <b>Outlook</b> 
 
 <h2>Program walk-through:</h2>
 
